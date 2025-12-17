@@ -2,7 +2,7 @@
 global lib scripts 
 
 Global-Tools:
-/**************************************************************
+
  * Global-Tools – Hilfsfunktionen für ilovegyms ioBroker-Umgebung
  * Version: 1.1
  * Typ: global (Bibliothek)
@@ -26,13 +26,13 @@ Global-Tools:
  *
  * Dieses Script startet KEINE Schedules und registriert KEINE on()-Listener.
  * Es stellt nur Funktionen im globalen Kontext bereit.
- **************************************************************/
+
 
 
 
 
 _libVoiceGPT:
-/***************************************************************
+
  * Global helper lib for ioBroker JS adapter.
  * Usage in other scripts: globalThis._libVoiceGpt
- ***************************************************************/
+ 
